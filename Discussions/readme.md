@@ -12,12 +12,4 @@
 - [How to Get Node.js Logging Right](https://blog.risingstack.com/node-js-logging-tutorial/)
 - [Liquibase vs Flyway which one to use?](https://stackoverflow.com/questions/37385823/liquibase-vs-flyway-which-one-to-use)
 - [jOOQ vs. Hibernate: When to Choose Which](https://blog.jooq.org/2015/03/24/jooq-vs-hibernate-when-to-choose-which/)
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
+
